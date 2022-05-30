@@ -1,0 +1,19 @@
+id: 9f9a740b081b4ad39e84793fec07eacf
+annotation_type: Segment
+revision: '00001'
+annotations:
+  c3845fe95c694e28941425ac5ce0f088:
+    span:
+      start: 0
+      end: 81
+    metadata: {}
+  452ec3bfd16543f484306de74b5eae7f:
+    span:
+      start: 83
+      end: 2301
+    metadata: {}
+  71636d172ac34cafaf0e734a579123d1:
+    span:
+      start: 2303
+      end: 2419
+    metadata: {}

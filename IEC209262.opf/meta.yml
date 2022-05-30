@@ -1,0 +1,90 @@
+id: IEC209262
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:07:05.234036'
+last_modified: '2022-05-30T23:07:05.234044'
+parser: null
+source_metadata:
+  title: Sera Khandro Series
+  language: bo
+  description: 'Texts by and associated with Sera Khandro Kunzang Dekyong Wangmo (se
+    ra mkha'' ''gro kun bzang bde skyong dbang mo, 1892–1940), the famous treasure-revealer:'
+  volume:
+    fC28F:
+      title: Advice from the Vajra Wisdom Consort
+      base_file: fC28F.txt
+      order: 1
+      parent: Advice
+    f1B15:
+      title: Concise Spiritual Advice
+      base_file: f1B15.txt
+      order: 2
+      parent: Advice
+    f69B1:
+      title: 'The Excellent Path of Devotion: An Abridged Story of a Mendicant’s Experiences
+        in Response to Questions from Vajra Kin'
+      base_file: f69B1.txt
+      order: 3
+      parent: Biography
+    f7BFA:
+      title: Guru Yoga
+      base_file: f7BFA.txt
+      order: 4
+      parent: Guru Yoga
+    f4405:
+      title: 'The Profound Path of Guru Yoga: A Way to Freedom for the Fortunate'
+      base_file: f4405.txt
+      order: 5
+      parent: Guru Yoga
+    f83DE:
+      title: A Brief Prayer to Sera Khandro
+      base_file: f83DE.txt
+      order: 6
+      parent: Prayers
+    fDA1C:
+      title: A Supplication to Noble Tārā, The Wish-Fulfilling Cornucopia
+      base_file: fDA1C.txt
+      order: 7
+      parent: Prayers
+    fD32F:
+      title: 'Burgeoning Benefit and Happiness: An Aspiration to be Reborn in the
+        Land of Turquoise Leaves'
+      base_file: fD32F.txt
+      order: 8
+      parent: Prayers
+    f3719:
+      title: 'Cloud Banks of Blessings: A Brief Prayer to the Garland of Successive
+        Rebirths'
+      base_file: f3719.txt
+      order: 9
+      parent: Prayers
+    f510F:
+      title: 'The Hook of Compassion: A Prayer to the Garland of Successive Rebirths'
+      base_file: f510F.txt
+      order: 10
+      parent: Prayers
+    f3662:
+      title: A Concise Meditation and Mantra Recitation of Sarasvatī from the Heart
+        Essence of the Ḍākinī of Suchness (Chönyi Khandrö Tuktik)
+      base_file: f3662.txt
+      order: 11
+      parent: Sādhanas
+    f04C7:
+      title: 'The Profound Bestowal of Blessings: A Sādhana of Dorje Drolö from the
+        Reality Ḍākinīs'' Secret Treasury (Chönyi Khandrö Sangdzö)'
+      base_file: f04C7.txt
+      order: 12
+      parent: Sādhanas
+    fDF7E:
+      title: A Song of Amazement Inspired by Practice Experience
+      base_file: fDF7E.txt
+      order: 13
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
